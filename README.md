@@ -1,6 +1,5 @@
 # CSharpExercises
 
-Here’s a list of all 30 coding exercises with their respective folder paths and output image links:
 
 1. **Coding Exercise 1**  
    - Folder: `Coding_Exercise1_Simple_Variables_Introduction`  
