@@ -1,0 +1,14 @@
+C:\Users\Abhishek Suryawanshi\source\repos\CSharpExercises\Coding_Exercise10_Using_Static_Method\bin\Debug\net8.0\Coding_Exercisee10_Using_Static_Method.exe
+C:\Users\Abhishek Suryawanshi\source\repos\CSharpExercises\Coding_Exercise10_Using_Static_Method\bin\Debug\net8.0\Coding_Exercisee10_Using_Static_Method.deps.json
+C:\Users\Abhishek Suryawanshi\source\repos\CSharpExercises\Coding_Exercise10_Using_Static_Method\bin\Debug\net8.0\Coding_Exercisee10_Using_Static_Method.runtimeconfig.json
+C:\Users\Abhishek Suryawanshi\source\repos\CSharpExercises\Coding_Exercise10_Using_Static_Method\bin\Debug\net8.0\Coding_Exercisee10_Using_Static_Method.dll
+C:\Users\Abhishek Suryawanshi\source\repos\CSharpExercises\Coding_Exercise10_Using_Static_Method\bin\Debug\net8.0\Coding_Exercisee10_Using_Static_Method.pdb
+C:\Users\Abhishek Suryawanshi\source\repos\CSharpExercises\Coding_Exercise10_Using_Static_Method\obj\Debug\net8.0\Coding_Exercisee10_Using_Static_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abhishek Suryawanshi\source\repos\CSharpExercises\Coding_Exercise10_Using_Static_Method\obj\Debug\net8.0\Coding_Exercisee10_Using_Static_Method.AssemblyInfoInputs.cache
+C:\Users\Abhishek Suryawanshi\source\repos\CSharpExercises\Coding_Exercise10_Using_Static_Method\obj\Debug\net8.0\Coding_Exercisee10_Using_Static_Method.AssemblyInfo.cs
+C:\Users\Abhishek Suryawanshi\source\repos\CSharpExercises\Coding_Exercise10_Using_Static_Method\obj\Debug\net8.0\Coding_Exercisee10_Using_Static_Method.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek Suryawanshi\source\repos\CSharpExercises\Coding_Exercise10_Using_Static_Method\obj\Debug\net8.0\Coding_Exercisee10_Using_Static_Method.dll
+C:\Users\Abhishek Suryawanshi\source\repos\CSharpExercises\Coding_Exercise10_Using_Static_Method\obj\Debug\net8.0\refint\Coding_Exercisee10_Using_Static_Method.dll
+C:\Users\Abhishek Suryawanshi\source\repos\CSharpExercises\Coding_Exercise10_Using_Static_Method\obj\Debug\net8.0\Coding_Exercisee10_Using_Static_Method.pdb
+C:\Users\Abhishek Suryawanshi\source\repos\CSharpExercises\Coding_Exercise10_Using_Static_Method\obj\Debug\net8.0\Coding_Exercisee10_Using_Static_Method.genruntimeconfig.cache
+C:\Users\Abhishek Suryawanshi\source\repos\CSharpExercises\Coding_Exercise10_Using_Static_Method\obj\Debug\net8.0\ref\Coding_Exercisee10_Using_Static_Method.dll
